@@ -1,1 +1,1 @@
-https://laprofessional.github.io/Calculator/
+[Calculator](https://laprofessional.github.io/Calculator/)
